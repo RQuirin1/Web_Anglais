@@ -1,0 +1,51 @@
+h2{
+    font-family: Calibri, serif;
+    padding-left: 20px;
+}
+
+.droite{
+    font-family: Calibri, serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.gauche{
+    font-family: Calibri, serif;
+    padding-left: 50px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.textegauche{
+    font-family: Calibri, serif;
+    margin-right: 600px;
+    margin-left: 20px;
+    padding-left: 20px;
+    text-align: left;
+    border: 2px solid blue;
+    border-radius: 3px;
+}
+
+.textedroite{
+    font-family: Calibri, serif;
+    margin-right: 550px;
+    margin-left: 550px;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 3px;
+}
+
+body{
+    font-family: Calibri, serif;
+    background-color: bisque;
+}
+
+.biographie{
+    font-family: Calibri, serif;
+}
+
+#unique{
+    display: flex;
+}
+
