@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#logo {
+    margin-left: 20px;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #64b5f6;
+}
+
+.text-info {
+    font-size: 16px;
+}
+
+#unique{
+    display: flex;
+}
